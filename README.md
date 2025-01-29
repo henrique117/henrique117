@@ -5,9 +5,8 @@ Sou um estudante de Ciência da Computação apaixonado por automação, desenvo
 I am a Computer Science student passionate about automation, bot development, and building intelligent systems to optimize tasks. My focus is on understanding the fundamentals of the technologies I use, exploring areas such as machine learning, cryptography, processor emulation, and database management. Always seeking new challenges, I enjoy developing projects that bridge theory and practice.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=henrique117&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=henrique117&show_icons=true&theme=radical&layout=compact" />
- </div>
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique117&show_icons=true&theme=radical&layout=compact" />
+</div>
  
  &nbsp;
  &nbsp;
