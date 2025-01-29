@@ -23,7 +23,9 @@ Sou um estudante de Ciência da Computação apaixonado por automação, desenvo
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" style="margin-top: 10px">
+<div style="margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
+</div>
 
 #### Secondary Stack:
 
