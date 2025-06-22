@@ -25,6 +25,7 @@ Sou um estudante de Ciência da Computação apaixonado por automação, desenvo
 
 #### Secondary Stack:
 
+![Java](https://img.shields.io/badge/Java-FF6433?style=for-the-badge&logo=kofi&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
