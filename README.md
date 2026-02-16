@@ -2,7 +2,7 @@
 Sou um estudante de Ciência da Computação apaixonado por automação, desenvolvimento de bots e criação de sistemas inteligentes para otimizar tarefas. Meu foco está em entender os fundamentos das tecnologias que utilizo, explorando desde machine learning e criptografia até a emulação de processadores e a manipulação de bancos de dados. Sempre buscando novos desafios, gosto de desenvolver projetos que unem teoria e prática.</p>&nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique117&layout=compact&theme=radical&show_icons=true&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique117&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </div>
  
  &nbsp;
